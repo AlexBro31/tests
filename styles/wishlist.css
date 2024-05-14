@@ -1,0 +1,91 @@
+
+
+.wishlist-title {
+  font-weight: bold;
+  font-size: 27px;
+  text-align: center;
+
+}
+
+.pro2 {
+margin-left: 135px;
+margin-top: 145px;
+height: 100px;
+position: relative;
+width: 165px;
+
+}
+
+.costco-button{
+ position: absolute;
+margin-left: 105px;
+margin-top: 260px;
+height: 31px;
+width: 119px;
+background-color: rgb(194, 255, 28);
+border: none;
+border-radius: 15px;
+font-weight: bold;
+cursor: pointer;
+transition: 0.17s
+color 0.17s
+
+
+}
+
+.apple-button{
+  position: absolute;
+  margin-top: 260px;
+  margin-left: 230px;
+  height: 31px;
+  width: 120px;
+  background-color: rgb(255, 216, 20);
+  border: none;
+  font-weight: bold;
+  border-radius: 15px;
+  margin-right: 11px;
+  cursor: pointer;
+  transition: 0.16s,
+  color 0.16s;
+
+}
+
+.sephora-button{
+  position: absolute;
+  margin-top: 265px;
+  margin-left: 755px;
+  height: 35px;
+  width: 119px;
+  background-color: rgb(20, 149, 255);
+  border: none;
+  font-weight: bold;
+  border-radius: 5px;
+  margin-right: 11px;
+  cursor: pointer;
+  transition: 0.16s,
+  color 0.16s;
+  font-weight: bold;
+
+
+
+}
+
+.jean{
+  position: absolute;
+  margin-left: 400px;
+  margin-top: 40px;
+
+}
+
+.wishlist-items{
+  font-weight: bold;
+  font-size: 27px;
+  text-align: center;
+
+}
+
+.end-title{
+  position: absolute;
+  margin-top: 400px;
+  margin-left: 450px ;
+}
